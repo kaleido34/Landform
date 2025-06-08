@@ -1,2 +1,2 @@
 # Modern-Responsive-Websie
-frontend  website using html,css and javascript.
+Complete frontend website made with HTML and CSS, enhanced by JavaScript.
