@@ -1,2 +1,2 @@
-# Modern-Responsive-Websie
-Complete frontend website made with HTML and CSS, enhanced by JavaScript.
+# Landform
+Checkout this cool modern landing page made using HTML, Css and a little bit of Javascript.
